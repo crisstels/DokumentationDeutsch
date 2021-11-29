@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.18)  25 NOV 2021 14:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.18)  29 NOV 2021 15:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -29,51 +29,77 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 ) (./hello.aux)
 \openout1 = `hello.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 7.
+(Font)              <12> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 7.
+(Font)              <8> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 7.
+(Font)              <6> on input line 8.
  [1
 
-{d:/Program Files/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [1] (./Einleitung.tex
-Overfull \hbox (13.83391pt too wide) in paragraph at lines 16--18
+{d:/Program Files/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Einleitung.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 21.
+
+Overfull \hbox (13.83391pt too wide) in paragraph at lines 17--34
 \OT1/cmr/m/n/10 F^^?ur die Um-set-zung des Pro-jek-tes standen der Au-torin sechs Stun-den zur Verf^^?ugung.
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 19.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 19.
-[2]) [3] (./hello.aux) ) 
+[1]
+Overfull \hbox (3.44498pt too wide) in paragraph at lines 41--44
+\OT1/cmr/m/n/10 definiert, da dieses Pro-jekt auss-chlie^^Ylich von einer einzel-nen Per-son durchgef^^?uhrt
+ []
+
+
+Overfull \hbox (6.02841pt too wide) in paragraph at lines 65--71
+\OT1/cmr/m/n/10 Bevor mit der eigentlichen Pro-jek-t-durchf^^?uhrung be-gonnen wurde, wurde zun^^?achst
+ []
+
+
+Overfull \hbox (8.75069pt too wide) in paragraph at lines 65--71
+\OT1/cmr/m/n/10 Apfelkuchen in Kas-ten-form kon-nte alle An-forderun-gen aus dem Las-ten-heft erf^^?ullen
+ []
+
+
+Overfull \hbox (12.13031pt too wide) in paragraph at lines 65--71
+\OT1/cmr/m/n/10 teig im Ofen gebacken. W^^?ahrenddessen wurde mit-tels der St^^?abchenprobe(footnote)
+ []
+
+[2]
+Overfull \hbox (11.55624pt too wide) in paragraph at lines 72--74
+\OT1/cmr/m/n/10 W^^?ahrend der Durchf^^?uhrung ist, aufge-fallen, dass nicht alle Zu-taten so-fort verf^^?ugbar
+ []
+
+) [3] [4] (./hello.aux) ) 
 Here is how much of TeX's memory you used:
- 440 strings out of 478371
- 8106 string characters out of 5845479
- 310306 words of memory out of 5000000
- 18617 multiletter control sequences out of 15000+600000
- 407685 words of font info for 41 fonts, out of 8000000 for 9000
+ 442 strings out of 478371
+ 8127 string characters out of 5845479
+ 313358 words of memory out of 5000000
+ 18619 multiletter control sequences out of 15000+600000
+ 407712 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,7n,38p,302b,191s stack positions out of 5000i,500n,10000p,200000b,80000s
-<d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on hello.pdf (4 pages, 71437 bytes).
+ 34i,10n,38p,479b,207s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/Program Files/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on hello.pdf (5 pages, 71874 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
