@@ -1,0 +1,20 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Projektbeschreibung}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Projektziel}{1}{}%
+\contentsline {section}{\numberline {2}Projektplanung}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Projektphasen}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Ressourcenplanung}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Projektkosten}{2}{}%
+\contentsline {section}{\numberline {3}Projektdurchführung}{2}{}%
+\contentsline {subsection}{\numberline {3.1}Ablauf}{2}{}%
+\contentsline {subsection}{\numberline {3.2}Probleme}{3}{}%
+\contentsline {section}{\numberline {4}Evaluation}{3}{}%
+\contentsline {subsection}{\numberline {4.1}Soll-/Ist-Vergleich}{3}{}%
+\contentsline {subsection}{\numberline {4.2}Lessons Learned}{4}{}%
+\contentsline {subsection}{\numberline {4.3}Ausblick}{4}{}%
+\contentsline {section}{\numberline {A}Anhang}{i}{}%
+\contentsline {subsection}{\numberline {A.1}Lastenheft (Auszug)}{i}{}%
+\contentsline {subsection}{\numberline {A.2}Genutzte Ressourcen}{i}{}%
+\contentsline {subsection}{\numberline {A.3}Soll-/Ist-Vergleich}{ii}{}%
+\contentsline {section}{\numberline {B}Quellenverzeichnis}{iii}{}%
