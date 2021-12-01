@@ -1,13 +1,16 @@
-\documentclass[a4paper,top=2.5cm,bottom=2cm,left=3cm,right=3cm]{article}
+\documentclass[a4paper,left=3cm,right=3cm]{article}
 
 \usepackage{ucs}
+\usepackage[ngerman]{babel}
+\usepackage{fancyref}
 \usepackage[onehalfspacing]{setspace}
 \usepackage[headsepline, markcase=noupper]{scrlayer-scrpage}
 \pagestyle{scrheadings}
-\ihead{\headmark}
+\ihead{Zubereitung eines Apfelkuchens}
 \ohead[]{}
 \automark{section}
 \cfoot*{\pagemark}
+\setlength{\headheight}{15.0pt}
 
 
 \title{Zubereitung eines Apfelkuchens in Kastenform}
@@ -18,6 +21,9 @@
   \maketitle
   \newpage
   \pagenumbering{arabic}
+  \input{Inhalt.tex}
   \newpage
-  \input{Einleitung.tex}
+  \appendix
+  \pagenumbering{roman}
+  \input{Anhang.tex}
 \end{document}
